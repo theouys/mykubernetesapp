@@ -1,0 +1,14 @@
+/home/theo/dev/mydockerapp/obj/Debug/net8.0/mydockerapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/theo/dev/mydockerapp/obj/Debug/net8.0/mydockerapp.AssemblyInfoInputs.cache
+/home/theo/dev/mydockerapp/obj/Debug/net8.0/mydockerapp.AssemblyInfo.cs
+/home/theo/dev/mydockerapp/obj/Debug/net8.0/mydockerapp.csproj.CoreCompileInputs.cache
+/home/theo/dev/mydockerapp/bin/Debug/net8.0/mydockerapp
+/home/theo/dev/mydockerapp/bin/Debug/net8.0/mydockerapp.deps.json
+/home/theo/dev/mydockerapp/bin/Debug/net8.0/mydockerapp.runtimeconfig.json
+/home/theo/dev/mydockerapp/bin/Debug/net8.0/mydockerapp.dll
+/home/theo/dev/mydockerapp/bin/Debug/net8.0/mydockerapp.pdb
+/home/theo/dev/mydockerapp/obj/Debug/net8.0/mydockerapp.dll
+/home/theo/dev/mydockerapp/obj/Debug/net8.0/refint/mydockerapp.dll
+/home/theo/dev/mydockerapp/obj/Debug/net8.0/mydockerapp.pdb
+/home/theo/dev/mydockerapp/obj/Debug/net8.0/mydockerapp.genruntimeconfig.cache
+/home/theo/dev/mydockerapp/obj/Debug/net8.0/ref/mydockerapp.dll

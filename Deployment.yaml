@@ -1,0 +1,28 @@
+        apiVersion: apps/v1
+        kind: Deployment
+        metadata:
+          name: your-app-deploymentl
+        spec:
+          replicas: 1
+          selector:
+            matchLabels:
+              app: your-app
+          template:
+            metadata:
+              labels:
+                app: your-app
+            spec:
+              containers:
+              - name: your-app-container
+                image: mydockerapp:latest
+                imagePullPolicy: Never
+                args: ["Theo"]
+                ports:
+                - containerPort: 80
+                resources:
+                  requests:
+                    memory: "64Mi"
+                    cpu: "250m"
+                  limits:
+                    memory: "128Mi"
+                    cpu: "500m"
